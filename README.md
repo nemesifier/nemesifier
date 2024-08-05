@@ -8,6 +8,16 @@
 </p>
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/nemesifier/nemesifier/main/avatar.jpg" alt="">
+</p>
+
+### Hi there! 👋
+
+I'm Federico Capoano, a passionate full stack software developer and risk
+taker, core developer of [OpenWISP](https://openwisp.org) and
+[NetJSON](https://netjson.org).
+
+<p align="center">
   <a href="https://openwisp.org">
     <img src="https://openwisp.io/docs/dev/_static/openwisp-logo-black.svg" alt="OpenWISP" width="300">
   </a>
@@ -16,12 +26,6 @@
     <img src="https://raw.githubusercontent.com/netjson/netjson/master/static/netjson-logo.png" alt="NetJSON Logo" width="350">
   </a>
 </p>
-
-### Hi there! 👋
-
-I'm Federico Capoano, a passionate full stack software developer and risk
-taker, core developer of [OpenWISP](https://openwisp.org) and
-[NetJSON](https://netjson.org).
 
 I believe **the internet is humanity's greatest invention**, and I'm dedicated
 to expanding its reach.
@@ -38,7 +42,11 @@ networking tools. That's how I fund the development and maintenance of OpenWISP,
 if you were wondering.
 
 On the side, I have also been mentoring new volunteers in Open Source through
-the Google Summer of Code program since 2012.
+the [Google Summer of Code](https://www.youtube.com/watch?v=bPH_JwceQa8) program since 2012.
+
+<p align="center">
+  <img src="https://openwisp.io/docs/dev/_images/gsoc2017.png" alt="Google Summer of Code">
+</p>
 
 Feel free to explore my projects and contributions on GitHub, check out the repositories in
 the [@openwisp](https://github.com/openwisp) organization, or get in touch with
