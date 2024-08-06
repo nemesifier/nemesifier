@@ -7,10 +7,6 @@
   </samp>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/nemesifier/nemesifier/main/avatar.jpg" alt="">
-</p>
-
 ### Hi there! 👋
 
 I'm Federico Capoano, a passionate full stack software developer and risk
