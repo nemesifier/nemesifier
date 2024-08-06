@@ -45,7 +45,9 @@ On the side, I have also been mentoring new volunteers in Open Source through
 the [Google Summer of Code](https://www.youtube.com/watch?v=bPH_JwceQa8) program since 2012.
 
 <p align="center">
-  <img src="https://openwisp.io/docs/dev/_images/gsoc2017.png" alt="Google Summer of Code">
+  <a href="https://www.youtube.com/watch?v=bPH_JwceQa8" target="_blank">
+    <img src="https://openwisp.io/docs/dev/_images/gsoc2017.png" alt="Google Summer of Code">
+  </a>
 </p>
 
 Feel free to explore my projects and contributions on GitHub, check out the repositories in
