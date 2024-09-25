@@ -29,13 +29,8 @@ to expanding its reach.
 Since 2011, I focused my efforts on building open source networking tools to
 bridge the digital divide and bring more people online.
 
-No, I am not poor and I don't need you to
-buy me a coffee, thank you for worrying though! 😁
-
-Fortunately, since 2017, I have been able to run a small company that is dedicated
-to helping businesses leverage OpenWISP, OpenWrt, and other popular open source
-networking tools. That's how I fund the development and maintenance of OpenWISP,
-if you were wondering.
+Since 2017, I have been running a business dedicated to helping organizations
+worldwide leverage OpenWISP, OpenWrt, and other popular open-source networking tools.
 
 On the side, I have also been mentoring new volunteers in Open Source through
 the [Google Summer of Code](https://www.youtube.com/watch?v=bPH_JwceQa8) program since 2012.
@@ -48,4 +43,4 @@ the [Google Summer of Code](https://www.youtube.com/watch?v=bPH_JwceQa8) program
 
 Feel free to explore my projects and contributions on GitHub, check out the repositories in
 the [@openwisp](https://github.com/openwisp) organization, or get in touch with
-me via the [OpenWISP Support Channels](https://openwisp.org/support.html)!
+me via the [OpenWISP Support Channels](https://openwisp.org/support/)!
